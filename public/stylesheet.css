@@ -10,13 +10,21 @@ body {
   padding: 0 1rem;
 }
 
+a, a:active, a:visited {
+  color: blue;
+}
+
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Montserrat', sans-serif;
 }
 
 h1 {
   font-size: 2.5rem;
-  color: #232dcf;
+  color: #ff1515;
+}
+
+h2 {
+  font-size: 1.7rem;
 }
 
 p {
@@ -25,4 +33,9 @@ p {
 
 img {
   width: 100%;
+  margin-bottom: 3rem;
+}
+
+.underline {
+  text-decoration: underline;
 }
