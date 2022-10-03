@@ -1,0 +1,28 @@
+* {
+  line-height: 1.6
+}
+
+body {
+  max-width: 600;
+  margin: 1rem auto;
+  font-family: 'Source Sans Pro', sans-serif;
+  background-color: #fffbf5;
+  padding: 0 1rem;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+  font-size: 2.5rem;
+  color: #232dcf;
+}
+
+p {
+  font-size: 1.2rem;
+}
+
+img {
+  width: 100%;
+}
