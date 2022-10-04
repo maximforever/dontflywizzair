@@ -27,6 +27,12 @@ h2 {
   font-size: 1.7rem;
 }
 
+h4 {
+  background: #f6b45d;
+  padding: 0.3rem 0.5rem;
+  display: table;
+}
+
 p {
   font-size: 1.2rem;
 }
@@ -36,6 +42,19 @@ img {
   margin-bottom: 3rem;
 }
 
+img.small-img {
+  margin: 0 auto;
+  display: block;
+}
+
 .underline {
   text-decoration: underline;
+  
+}
+
+.tweets {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
